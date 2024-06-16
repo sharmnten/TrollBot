@@ -1,0 +1,1 @@
+worker: python delete_messages_bot.py
